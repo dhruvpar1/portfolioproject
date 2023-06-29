@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import timbernet from "../../Assets/Projects/Timbernet.png";
 import disease from "../../Assets/Projects/disease.jpg"
 import movie from "../../Assets/Projects/movie.jpg"
+import ThoughtVerse  from "../../Assets/Projects/ThoughtVerse.png"
 
 function Projects() {
   return (
