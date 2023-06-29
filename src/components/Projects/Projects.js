@@ -48,6 +48,16 @@ function Projects() {
               demoLink="https://abhiml2.onrender.com/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ThoughtVerse}
+              isBlog={false}
+              title="ThoughtVerse"
+              description="Thoughtverse is an open-source AI Quotation tool for modern world to discover, create and share creative Thoughts."
+              ghLink="https://github.com/Abhibhab/Thoughtverse"
+              demoLink="https://thoughtverse.vercel.app"
+            />
+          </Col>
 
       
         </Row>
