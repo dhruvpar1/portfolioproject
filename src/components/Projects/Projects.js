@@ -6,6 +6,7 @@ import timbernet from "../../Assets/Projects/Timbernet.png";
 import disease from "../../Assets/Projects/disease.jpg"
 import movie from "../../Assets/Projects/movie.jpg"
 import ThoughtVerse  from "../../Assets/Projects/ThoughtVerse.png"
+import Gym from"../../Assets/Projects/gym.png""
 
 function Projects() {
   return (
@@ -31,6 +32,26 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={ThoughtVerse}
+              isBlog={false}
+              title="ThoughtVerse"
+              description="Thoughtverse is an open-source AI Quotation tool for modern world to discover, create and share creative Thoughts."
+              ghLink="https://github.com/Abhibhab/Thoughtverse"
+              demoLink="https://thoughtverse.vercel.app"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Gym}
+              isBlog={false}
+              title="Evogym"
+              description="Type script,reaCT,vite,ftramer motion,tailwind css,cloudflare"
+              ghLink="https://github.com/Abhibhab/Gym-type"
+              demoLink="https://gym-typrescript.netlify.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={disease}
               isBlog={false}
               title="DISEASE PREDICTION SYSTEM"
@@ -49,16 +70,7 @@ function Projects() {
               demoLink="https://abhiml2.onrender.com/"
             />
           </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={ThoughtVerse}
-              isBlog={false}
-              title="ThoughtVerse"
-              description="Thoughtverse is an open-source AI Quotation tool for modern world to discover, create and share creative Thoughts."
-              ghLink="https://github.com/Abhibhab/Thoughtverse"
-              demoLink="https://thoughtverse.vercel.app"
-            />
-          </Col>
+         
 
       
         </Row>
