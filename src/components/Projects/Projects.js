@@ -45,7 +45,7 @@ function Projects() {
               imgPath={Gym}
               isBlog={false}
               title="Evogym"
-              description="Type script,reaCT,vite,ftramer motion,tailwind css,cloudflare"
+              description="we will be using React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, React Anchor Link Smooth Scroll for our  Complete Typescript Fitness Application"
               ghLink="https://github.com/Abhibhab/Gym-type"
               demoLink="https://gym-typrescript.netlify.app/"
             />
