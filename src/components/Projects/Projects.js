@@ -7,6 +7,7 @@ import disease from "../../Assets/Projects/disease.jpg"
 import movie from "../../Assets/Projects/movie.jpg"
 import ThoughtVerse  from "../../Assets/Projects/ThoughtVerse.png"
 import Gym from"../../Assets/Projects/gym.png"
+import Graph from"../../Assets/Projects/graph.png"
 
 function Projects() {
   return (
@@ -38,6 +39,16 @@ function Projects() {
               description="Thoughtverse is an open-source AI Quotation tool for modern world to discover, create and share creative Thoughts."
               ghLink="https://github.com/Abhibhab/Thoughtverse"
               demoLink="https://thoughtverse.vercel.app"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Graph}
+              isBlog={true}
+              title="Graph Blog"
+              description="Clients can manage the blog from a dedicated Content Management System(CMS).GraphQL is used for the api service."
+              ghLink="https://github.com/Abhibhab/Graphblog"
+              demoLink="https://graphblog-gmfm8o4q8-abhibhab.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
