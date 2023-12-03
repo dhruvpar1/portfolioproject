@@ -23,12 +23,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={timbernet}
-              isBlog={false}
-              title="Timbernet"
-              description="TIMBERNET is an online application which acts as an interfacebetween the Furniture shops and Local residents in that area.• Location Based Recommendation,ChatBot are its unique features."
-              ghLink="https://github.com/Abhibhab/TimberNet"
-              demoLink="https://timbernet.netlify.app/"
+                    imgPath={ThoughtVerse}
+                    isBlog={false}
+                    title="ThoughtVerse"
+                    description="Thoughtverse is an open-source AI Quotation tool for modern world to discover, create and share creative Thoughts."
+                    ghLink="https://github.com/Abhibhab/Thoughtverse"
             />
           </Col>
           <Col md={4} className="project-card">
