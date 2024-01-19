@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolioproject/static/css/main.ade39f35.css",
-    "main.js": "/portfolioproject/static/js/main.597db48b.js",
-    "static/js/787.7da95b79.chunk.js": "/portfolioproject/static/js/787.7da95b79.chunk.js",
+    "main.css": "/portfolioproject/static/css/main.2d443265.css",
+    "main.js": "/portfolioproject/static/js/main.be025e99.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolioproject/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolioproject/static/js/787.1ed0c42c.chunk.js",
     "static/media/movie.jpg": "/portfolioproject/static/media/movie.e3085c3ff74b07874a8b.jpg",
     "static/media/ThoughtVerse.png": "/portfolioproject/static/media/ThoughtVerse.7620c1667e68b0a2e15a.png",
     "static/media/Timbernet.png": "/portfolioproject/static/media/Timbernet.15bfdeffae614f88edfc.png",
     "static/media/graph.png": "/portfolioproject/static/media/graph.5e3d193188c80d599f9c.png",
     "static/media/gym.png": "/portfolioproject/static/media/gym.b23f40e5a690277ffa94.png",
     "static/media/disease.jpg": "/portfolioproject/static/media/disease.b84c02f6643afb12511f.jpg",
-    "static/media/Abhibhab.pdf": "/portfolioproject/static/media/Abhibhab.7dee2855d10670e12355.pdf",
-    "static/media/home-main.svg": "/portfolioproject/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/logo.png": "/portfolioproject/static/media/logo.1b9840efbd99328aa7d1.png",
+    "static/media/resume.pdf": "/portfolioproject/static/media/resume.4e359531d404996547a0.pdf",
+    "static/media/home-main.svg": "/portfolioproject/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/portfolioproject/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "/portfolioproject/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/portfolioproject/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/portfolioproject/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/avatar.svg": "/portfolioproject/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolioproject/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolioproject/index.html",
-    "main.ade39f35.css.map": "/portfolioproject/static/css/main.ade39f35.css.map",
-    "main.597db48b.js.map": "/portfolioproject/static/js/main.597db48b.js.map",
-    "787.7da95b79.chunk.js.map": "/portfolioproject/static/js/787.7da95b79.chunk.js.map"
+    "main.2d443265.css.map": "/portfolioproject/static/css/main.2d443265.css.map",
+    "main.be025e99.js.map": "/portfolioproject/static/js/main.be025e99.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolioproject/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolioproject/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ade39f35.css",
-    "static/js/main.597db48b.js"
+    "static/css/main.2d443265.css",
+    "static/js/main.be025e99.js"
   ]
 }
