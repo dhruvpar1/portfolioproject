@@ -27,59 +27,42 @@ function Projects() {
                     isBlog={false}
                     title="ThoughtVerse"
                     description="Thoughtverse is an open-source AI Quotation tool for modern world to discover, create and share creative Thoughts."
-                    ghLink="https://github.com/Abhibhab/Thoughtverse"
+                    ghLink="https://github.com/dhruvpar1/DayThoughts"
+                    demoLink="https://thoughtverse.vercel.app"
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ThoughtVerse}
+              imgPath={"https://www.iphonelife.com/sites/iphonelife.com/files/styles/promo_in_content_breakpoints_theme_newmango_mobile_2x/public/emoji.jpg?itok=bvQy66kO"}
               isBlog={false}
-              title="ThoughtVerse"
+              title="Text To emoji"
               description="Thoughtverse is an open-source AI Quotation tool for modern world to discover, create and share creative Thoughts."
-              ghLink="https://github.com/Abhibhab/Thoughtverse"
-              demoLink="https://thoughtverse.vercel.app"
+              ghLink="https://github.com/dhruvpar1/textToEmoji"
+             
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Graph}
               isBlog={true}
-              title="Graph Blog"
-              description="Clients can manage the blog from a dedicated Content Management System(CMS).GraphQL is used for the api service."
-              ghLink="https://github.com/Abhibhab/Graphblog"
+              title="web Blog"
+              description="Clients can manage the blog from a dedicated Content Management System(CMS)."
+              ghLink="https://github.com/dhruvpar1/WebPost"
               demoLink="https://graphblog-gmfm8o4q8-abhibhab.vercel.app/"
             />
           </Col>
+         
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Gym}
+              imgPath={"https://w7.pngwing.com/pngs/951/972/png-transparent-jigsaw-puzzle-jigsaw-puzzles-puzzle-template-angle-3d-computer-graphics-thumbnail.png"}
               isBlog={false}
-              title="Evogym"
-              description="we will be using React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, React Anchor Link Smooth Scroll for our  Complete Typescript Fitness Application"
-              ghLink="https://github.com/Abhibhab/Gym-type"
-              demoLink="https://gym-typrescript.netlify.app/"
+              title="Puzzle"
+              description="• A javascript based puzzle game."
+              ghLink="https://github.com/dhruvpar1/puzzle"
+              // demoLink="https://abhiml1.onrender.com/"
             />
           </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={disease}
-              isBlog={false}
-              title="DISEASE PREDICTION SYSTEM"
-              description="• It is helpful in detection of various diseases like Heartdisease,Parkinson’s Disease and Diabetes.• Support Vector Machine and Logistic Regression is used."
-              ghLink="https://github.com/Abhibhab/Abhiml1"
-              demoLink="https://abhiml1.onrender.com/"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={movie}
-              isBlog={false}
-              title="MOVIE RECOMMENDER"
-              description="• A movie recommender that recommends movies using the K NearestNeighbours algorithm from a list of 5000 movies.• Colaborative(User Based) And Content Based Filtering are used."
-              ghLink="https://github.com/Abhibhab/movierec21"
-              demoLink="https://abhiml2.onrender.com/"
-            />
-          </Col>
+         
          
 
       
